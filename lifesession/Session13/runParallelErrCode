@@ -1,0 +1,5 @@
+#!/bin/bash
+
+mpirun ./a.out
+
+echo execution ended with error code $?
