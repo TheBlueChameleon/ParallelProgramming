@@ -6,3 +6,7 @@
 build*/
 *.user
 *.dat
+*.zip
+*.gif
+*.log
+*.png
